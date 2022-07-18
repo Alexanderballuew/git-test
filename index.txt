@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 <p1>Hi Collibri<p1>
 <h2>Hi Git!<h2>
+=======
+<h1>Hello git<h1>
+>>>>>>> parent of 31eda12 (Files)

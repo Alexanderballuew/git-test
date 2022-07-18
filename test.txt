@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 YELLOW
+=======
+Git 12322
+ABOABA
+Add new line
+>>>>>>> parent of 31eda12 (Files)
